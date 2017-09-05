@@ -1,6 +1,4 @@
 # potential-spork
-
-
 # README
 
 My first repository (huh, it's a lie)
